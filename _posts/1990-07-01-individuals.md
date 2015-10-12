@@ -3,7 +3,7 @@ title: "Individuals"
 bg: white
 iconcolor: rgb(102, 102, 102)
 color: black
-fa-icon: users
+fa-icon: user
 style: center
 ---
 

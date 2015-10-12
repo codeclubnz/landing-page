@@ -1,5 +1,5 @@
 ---
-title: "video"
+title: "mashup"
 bg: rgb(55,189,184)
 color: white
 fa-icon: film
