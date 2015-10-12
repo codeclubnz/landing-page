@@ -91,5 +91,9 @@ $(document).ready(function (){
         }
 	});
 
+    $(".donate-wrapper").on('click', function() {
+        window.open("http://www.codeclub.nz/support-us/");
+    });
+
 });
 

@@ -1,0 +1,68 @@
+.donate-wrapper {
+	position: relative;
+	width: 245px;
+	height: 245px;
+	cursor: pointer;
+	border-radius: 50%;
+	display: table;
+	margin: 0 auto;
+	z-index: 7;
+}
+.donate-wrapper {
+	cursor: pointer;
+}
+.donate {
+	z-index: 3;
+	position: absolute;
+	text-align: center;
+	left: 50%;
+	margin-left: -135px;
+}
+.donate .fa-stack {
+	left: 0;
+	position: static;
+	display: inline-block;
+	width: 270px;
+	height: 270px;
+	font-size: 125px;
+	text-align: center;
+	vertical-align: middle;
+}
+.donate .fa {
+	color: rgb(90, 90, 90);
+	font-size: 2em;
+}
+.donate h5 {
+	font-family: 'Varela Round', sans-serif;
+	left: 0;
+	font-size:40px;
+	text-transform:lowercase;
+	z-index:6;
+	width:270px;
+	display: block;
+	position: absolute;
+	text-align: center;
+	bottom: 135px;
+	vertical-align: baseline;
+	color: white;
+}
+.donate .text-now {
+	bottom: 115px;
+}
+.donate .text-donate {
+	bottom: 155px;
+}
+.donate .bracket-open {
+	bottom: 135px;
+	left: -80px;
+	font-size: 80px;
+	font-weight: 100;
+	color: #37bdb8;
+}
+.donate .bracket-close {
+	bottom: 135px;
+	left: 80px;
+	font-size: 80px;
+	font-weight: 100;
+	color: #37bdb8;
+}
