@@ -7,7 +7,7 @@ fa-icon: user
 style: center
 ---
 
-# Not the CEO of tech company? That's ok!
+# Not the CEO of a tech company? That's ok!
 
 We are open for donations large and small, every little bit helps.
 
