@@ -16,10 +16,10 @@ baseurl: /landing-page
 
 
 ### content configuration ###
-title:       "SinglePaged - Simple Jekyll template"
-keywords:    "SinglePaged, jekyll, template, github, blog, single page"
-description: "A single-page template for Jekyll based blogs (like what you'd use on github pages!)"
-source_link: "https://github.com/t413/SinglePaged"
+title:       "Code Club Aotearoa - Landing Page"
+keywords:    "CodeClub, code club, Aotearoa, New Zealand, IoT, Education, Tech, IT"
+description: "Code Club Aotearoa - A nationwide learning network for kids!"
+source_link: "https://github.com/codeclubnz/landing-page/"
 favicon:     "img/favicon.ico"
 touch_icon:  "img/logo-large.png"
 google_analytics_key: UA-49607422-1 ## put YOUR key here to enable tracking! (blank to disable)
