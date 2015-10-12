@@ -7,9 +7,7 @@ All content is writen in markdown.
 
 ## Prerequisites
 
-Jekyll
-
-run
+* Jekyll. To install, run:
 ```bash
 gem install jekyll
 ```
@@ -18,9 +16,10 @@ More info here: https://jekyllrb.com/
 
 ## Contribute
 
-To run locally, clone the repo and run
-
-`jekyll serve -w`
+To run locally, clone the repo and run:
+```bash
+jekyll serve -w
+```
 
 Navigate to `http://localhost:4000/landing-page/` to view.
 
