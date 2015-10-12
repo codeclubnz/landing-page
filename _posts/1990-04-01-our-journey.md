@@ -1,7 +1,6 @@
 ---
 title: "Our Journey"
-bg: white
-iconcolor: grey
+bg: brand
 color: black
 fa-icon: cogs
 style: center
