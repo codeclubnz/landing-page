@@ -1,6 +1,6 @@
 ---
 title: "mashup"
-bg: rgb(55,189,184)
+bg: brand
 color: white
 fa-icon: film
 style: center

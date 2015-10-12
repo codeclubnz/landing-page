@@ -1,7 +1,7 @@
 ---
 title: "Individuals"
 bg: white
-iconcolor: rgb(102, 102, 102)
+iconcolor: grey
 color: black
 fa-icon: user
 style: center

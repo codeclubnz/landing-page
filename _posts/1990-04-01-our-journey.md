@@ -1,7 +1,7 @@
 ---
 title: "Our Journey"
 bg: white
-iconcolor: rgb(102, 102, 102)
+iconcolor: grey
 color: black
 fa-icon: cogs
 style: center
