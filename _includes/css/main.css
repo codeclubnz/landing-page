@@ -217,6 +217,14 @@ nav ul li:hover, nav ul li.active {
   margin-top: -20px;
 }
 
+.sectiondivider .fa-stack-1x {
+  top: -5px;
+}
+
+.sectiondivider .fa-globe {
+  top: inherit;
+}
+
 .sectiondivider .fa-stack {
   font-size: 130px;
   position: static;
